@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GooseSeventh
+- 👀 I’m interested in artificial intelligence and game development
+- 🌱 I’m currently learning game design
